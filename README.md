@@ -1,6 +1,6 @@
 # 🚀 resumo-do-labor
 
-# 👋 Olá, pode de chamar de Leandro Menezes!
+# 👋 Olá, pode me chamar de Leandro Menezes!
 
 ## 😊 Sobre mim
 Sou um entusiasta da tecnologia e apaixonado por resolver problemas. Meu sonho é ser um profissional em nuvem e ajudar empresas a crescerem seus negócios
