@@ -1,4 +1,4 @@
-# 🚀 resumo-do-lab1
+# 🚀 resumo-do-labor
 
 # 👋 Olá, pode me chamar de Leandro Menezes!
 
